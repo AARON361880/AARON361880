@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AARON361880
-- 👀 I’m interested in ... in learning different programming languages
+- 👀 I’m interested in ... learning different programming languages
 - 🌱 I’m currently learning ... CS50
-- 💞️ I’m looking to collaborate on ...+earning different programming languages
+- 💞️ I’m looking to collaborate on ...learning different programming languages
 - 📫 How to reach me ... reach me through my email aaronquaye13@gmail.com
 - 😄 Pronouns: ... HE/Him
 - ⚡ Fun fact: ... I love joking and always being around people
